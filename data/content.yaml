@@ -1,0 +1,117 @@
+BasicInfo:
+  FirstName: Stan
+  LastName: Wiggers
+  Photo: img/avatar2.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +316 53121505
+    - Icon: fas fa-envelope
+      Info: stanbenjaminwiggers@gmail.com
+    - Icon: fas fa-globe
+      Info: linkedin.com/in/stan-wiggers-765a3ba2/
+    - Icon: fas fa-map-marker-alt
+      Info: Netherlands
+
+Profile: Hi there! My name is Stan Wiggers, I am 25 years old and live in Deventer. I would describe myself as a calm go-getter who likes to look at things analytically. I am a sports enthusiast, I love hanging out with friends and every now and then I like to turn on my DJ Controller to mix music or turn on my PlayStation to play videogames.
+
+
+Experience:
+  - Employer: Bol.com
+    Place: Utrecht
+    Positions:
+      - Title: Business Intelligence Specialist
+        Date: Mar 2021 - Present
+        Details:
+          - Being a BI Specialist at bol.com means providing the correct data insights for our colleagues
+          - Extra focus on Data Literacy
+        Badges: ['Data Literacy', 'Tableau', 'Google BigQuery', 'SQL']
+      - Title: Business Intelligence Intern
+        Date: Sep 2020 - Feb 2021
+        Details:
+          - Support of the BI Autonomous Insights team
+          - Wrote my Master Thesis with the title; Is Data Literacy Related To Data Usage?
+        Badges: ['Master Thesis']
+      - Title: Content Specialist
+        Date: Apr 2019 - Sep 2019
+        Details:
+          - As a Content Specialist I was responsible for the content at the cluster Electronics
+          - Provide products with creative content and optimize findability
+        Badges: ['Creative Content', 'Findability', 'Customer Journey']
+      - Title: Bijverkoop Specialist
+        Date: Aug 2018 - Dec 2018
+        Details:
+          - Responsible for the additional 'shopping card' sales at the cluster Electronics
+          - Improving the additional sales strategy by testing and analyzing data
+        Badges: ['Experiments', 'Data Analysis', 'Strategy']
+      - Title: Product Specialist Intern
+        Date: Feb 2018 - Jul 2018
+        Details:
+          - As an intern I supported the product & brand specialists in their daily work, but I also had my own tasks
+          - Wrote my Bachelor Thesis with the title; Het sales-uplift Uplift-plan
+        Badges: ['Bachelor Thesis']
+  - Employer: Haverkamp Deventer
+    Place: Deventer
+    Positions:
+      - Title: Digital Marketer
+        Date: Mar 2017 - Jan 2018 & Oct 2019 - Feb 2021
+        Details:
+          - Digital Marketer, consisting of optimization of 4 webshops and building 1 new webshop
+        Badges: ['Google Analytics', 'Google Adwords', 'Customer Journey', 'Social Media', 'HTML']
+      - Title: Digital Marketing Intern
+        Date: Mar 2017 - Jan 2018
+        Details:
+          - Support of the Digital Marketing team
+          - Formulation of a marketing plan
+  - Employer: Plus Supermarkets
+    Place: Schalkhaar
+    Positions:
+      - Title: Teamlead
+        Date: Oct 2011 - Aug 2016
+        Details:
+          - Together with a team of stock fillers, we made sure that the supermarket was stocked every evening
+          - Responsible for the stock, counting the money and closing the shop correctly
+        Badges: ['Retail', 'Leadership']
+
+Education:
+  - Course: MSc Marketing Analytics
+    Place: Tilburg University
+    Date: Feb 2020 - Present
+    Details: Specialised in Data Analytics
+
+  - Course: Bachelor Commercial Economics
+    Place: Hogeschool Saxion Deventer
+    Date: Feb 2020 - Present
+    Details: Specialised in Digital Marketing
+
+Skills:
+  - Family: Data Analysis
+    Items:
+      - Tableau
+      - Google BigQuery (SQL)
+      - Google Analytics
+  - Family: Programming
+    Items:
+      - Python
+      - R
+      - HTML
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Github
+
+Languages:
+  - Name: Dutch
+    Level: Native
+  - Name: English
+    Level: Professional
+  - Name: German
+    Level: Basic
+
+Interests:
+  - Mountain biking & cycling
+  - Soccer
+  - Fitness & Bootcamp
+  - Friends
+  - Music
+  - Sneakers
+  - Gaming
