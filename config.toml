@@ -2,7 +2,7 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
-title = "CV Stan Wiggers"
+title = "resume stan wiggers"
 
 [params]
 colorDark = "#666"
