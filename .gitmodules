@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/stanwiggers/netlifywebsite1.github.io.git
+	branch = main
