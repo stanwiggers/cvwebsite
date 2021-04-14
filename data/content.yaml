@@ -92,7 +92,8 @@ Skills:
   - Family: Programming
     Items:
       - Python
-      - R
+      - Jupyter Notebook
+      - R Studio
       - HTML
   - Family: Developer Tools
     Items:
